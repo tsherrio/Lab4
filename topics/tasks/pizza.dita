@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="pizza">
+    <title>Making pizza</title>
+    <shortdesc>How to make pizza, a savoury dish of Italian origin, consisting of a usually round,
+        flattened base of leavened wheat-based dough topped with various other ingredients, such as
+        tomatoes and cheese.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Pizza has become one of the most popular foods in the world and a common fast food item in Europe and North America, available at pizzerias, restaurants offering Mediterranean cuisine, and via pizza delivery.</p>
+        </context>
+        <prereq>Ensure you have the following ingredients to hand before you begin.
+            <ul>
+                <li>300g strong bread flour</li>
+                <li>1 tsp instant yeast</li>
+                <li>1 tsp salt</li>
+                <li>1 tbsp olive oil olive oil, plus extra for drizzling</li>
+                <li>100ml passata</li>
+                <li>Handful fresh basil Basil</li>
+                <li>1 garlic clove, crushed</li>
+                <li>125g ball mozzarella, sliced</li>
+                <li>Handful grated or shaved parmesan</li>
+                <li>Handful cherry tomatoes, halved
+                    <image href="../../resources/images/pizza.PNG" id="piz"></image>
+                </li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <hazardstatement conkeyref="safe/food">
+                    <messagepanel>
+                        <typeofhazard></typeofhazard>
+                        <howtoavoid></howtoavoid>
+                    </messagepanel>
+                </hazardstatement>                
+                <cmd>Make the base: Put the flour into a large bowl, then stir in the yeast and salt. Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft, fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside. You can leave the dough to rise if you like, but it’s not essential for a thin crust.</cmd>
+            </step>
+            <step>
+                <cmd>Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste. Leave to stand at room temperature while you get on with shaping the base.</cmd>
+            </step>
+            <step>
+                <cmd>Roll out the dough: If you’ve let the dough rise, give it a quick knead, then split into two balls. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets.</cmd>
+            </step>
+            <step>
+                <cmd>Top and bake: Heat oven to 240C/fan 220C /gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf. Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

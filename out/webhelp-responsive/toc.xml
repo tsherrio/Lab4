@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Mediterranean Cuisine</span></title>
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
+      <title>Mediterranean Cuisine</title>
+      <topic href="topics/concepts/what_med_style.html" data-id="what_med_style" wh-toc-id="what_med_style-d66e12">
+         <title>Mediterranean Cuisine styles</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Mediterranean cuisine is the foods and methods of preparation by people of the Mediterranean Basin region.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="what_med_style"></resourceid>
+            <navtitle class="- topic/navtitle ">Mediterranean Cuisine styles</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Mediterranean Cuisine styles</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Mediterranean cuisine is the foods and methods of preparation by people of the Mediterranean Basin region.</shortdesc>
+         </topicmeta>
+         <topic href="topics/concepts/egypt.html" data-id="Egypt" wh-toc-id="Egypt-d66e23">
+            <title>Egypt</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="Egypt"></resourceid>
+               <navtitle class="- topic/navtitle ">Egypt</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Egypt</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs.</shortdesc>
+            </topicmeta>
+            <topic href="topics/tasks/falafel.html" data-id="falafel" wh-toc-id="falafel-d66e34">
+               <title>Making falafel</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to make falafel, a deep-fried ball made from ground chickpeas, fava beans, or both.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="falafel"></resourceid>
+                  <navtitle class="- topic/navtitle ">Making falafel</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Making falafel</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">How to make falafel, a deep-fried ball made from ground chickpeas, fava beans, or both.</shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/tasks/duqqa.html" data-id="duqqa" wh-toc-id="duqqa-d66e45">
+               <title>Making duqqa</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to make duqqa, an Egyptian condiment consisting of a mixture of herbs, nuts (usually hazelnut), and spices.</p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="duqqa"></resourceid>
+                  <navtitle class="- topic/navtitle ">Making duqqa</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Making duqqa</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">How to make duqqa, an Egyptian condiment consisting of a mixture of herbs, nuts (usually hazelnut), and spices.</shortdesc>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="topics/concepts/italy.html" data-id="italy" wh-toc-id="italy-d66e56">
+            <title>Italy</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="italy"></resourceid>
+               <navtitle class="- topic/navtitle ">Italy</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Italy</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.</shortdesc>
+            </topicmeta>
+            <topic href="topics/tasks/pizza.html" data-id="pizza" wh-toc-id="pizza-d66e67">
+               <title>Making pizza</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to make pizza, a savoury dish of Italian origin, consisting of a usually round,         flattened base of leavened wheat-based
+                     dough topped with various other ingredients, such as         tomatoes and cheese.
+                  </p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="pizza"></resourceid>
+                  <navtitle class="- topic/navtitle ">Making pizza</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Making pizza</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">How to make pizza, a savoury dish of Italian origin, consisting of a usually round,         flattened base of leavened wheat-based
+                     dough topped with various other ingredients, such as         tomatoes and cheese.
+                  </shortdesc>
+               </topicmeta>
+            </topic>
+            <topic href="topics/tasks/risotto.html" data-id="making_risotto" wh-toc-id="making_risotto-d66e78">
+               <title>Making risotto</title>
+               <shortdesc>
+                  <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to make risotto, a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be
+                     derived from meat, fish, or vegetables.
+                  </p>
+               </shortdesc>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="making_risotto"></resourceid>
+                  <navtitle class="- topic/navtitle ">Making risotto</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Making risotto</linktext><?ditaot genshortdesc?>
+                  <shortdesc class="- map/shortdesc ">How to make risotto, a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be
+                     derived from meat, fish, or vegetables.
+                  </shortdesc>
+               </topicmeta>
+            </topic>
+         </topic>
+      </topic>
+   </topic>
+</toc>

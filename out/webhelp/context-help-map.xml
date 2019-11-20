@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="what_med_style" path="topics/concepts/what_med_style.html"/>
+   <appContext helpID="Egypt" path="topics/concepts/egypt.html"/>
+   <appContext helpID="falafel" path="topics/tasks/falafel.html"/>
+   <appContext helpID="duqqa" path="topics/tasks/duqqa.html"/>
+   <appContext helpID="italy" path="topics/concepts/italy.html"/>
+   <appContext helpID="pizza" path="topics/tasks/pizza.html"/>
+   <appContext helpID="making_risotto" path="topics/tasks/risotto.html"/>
+</map>

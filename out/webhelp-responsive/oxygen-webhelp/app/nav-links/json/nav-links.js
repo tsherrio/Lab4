@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">Mediterranean Cuisine</span>","topics" : [{"title":"Mediterranean Cuisine","href":"topics\/concepts\/what_med_style.html","menu": {"hasChildren":true,},"tocID":"tocId-d66e11","next":"tocId-d66e11",}]});

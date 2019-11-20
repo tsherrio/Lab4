@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="italy">
+    <title>Italy</title>
+    <shortdesc>Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine.</shortdesc>
+    <conbody>
+        <image conref="../tasks/pizza.dita#pizza/piz"></image>
+        <p>Italy's capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s "David" and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.</p>
+        <p>Mediterranean Italian cuisine includes much of Italy outside the north and the mountainous inland regions. It is a diverse cuisine, but among its best-known and most characteristic foods are risotto, pizza in Neapolitan and Sicilian styles, and pasta dishes such as spaghetti.</p>
+        <image conref="../tasks/risotto.dita#making_risotto/ris"></image>
+    </conbody>
+</concept>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="falafel">
+    <title>Making falafel</title>
+    <shortdesc>How to make falafel, a deep-fried ball made from ground chickpeas, fava beans, or both.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Falafel is a very famous Middle Eastern dish that most likely originated in Egypt. The fritters are now found around the world as part of vegetarian cuisine, and as a form of street food.</p>
+        </context>
+        <prereq>Ensure you have the following ingredients to hand before you begin.
+            <ul>
+                <li>400g can chickpeas, rinsed and drained</li>
+                <li>1 small red onion, roughly chopped</li>
+                <li>1 garlic clove, chopped</li>
+                <li>handful of flat-leaf parsley or curly parsley</li>
+                <li>1 tsp ground cumin</li>
+                <li>1 tsp ground coriander</li>
+                <li>1⁄2 tsp harissa paste or chilli powder</li>
+                <li>2 tbsp plain flour</li>
+                <li>2 tbsp sunflower oil</li>
+                <li>toasted pitta bread, to serve</li>
+                <li>200g tub tomato salsa, to serve</li>
+                <li>green salad, to serve
+                  <image href="../../resources/images/falafel.PNG" id="falaf"></image>
+                 </li>
+                
+            </ul>   
+        </prereq>
+        <steps>
+            <step>
+                <hazardstatement conkeyref="saf/food">
+                    <messagepanel>
+                        <typeofhazard></typeofhazard>
+                        <howtoavoid></howtoavoid>
+                    </messagepanel>
+                </hazardstatement>
+                <cmd>Drain a 400g can chickpeas and pat dry with kitchen paper.</cmd>
+            </step>
+            <step>
+                <cmd>Tip into a food processor along with 1 small roughly chopped red onion, 1 garlic clove, handful of flat-leaf parsley, 1 tsp ground cumin, 1 tsp ground coriander, ½ tsp harissa paste or chillli powder, 2 tbsp plain flour and a little salt.</cmd>
+            </step>
+            <step>
+                <cmd>Blend until fairly smooth, then shape into four patties with your hands.</cmd>
+            </step>
+            <step>
+                <cmd>Heat 2 tbsp sunflower oil in a non-stick frying pan, add the burgers, then quickly fry for 3 mins on each side until lightly golden.</cmd>
+            </step>
+            <step>
+                <cmd>Serve with toasted pitta bread, 200g tub tomato salsa and a green salad.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

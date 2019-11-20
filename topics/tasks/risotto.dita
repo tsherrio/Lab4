@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="making_risotto">
+    <title>Making risotto</title>
+    <shortdesc>How to make risotto, a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish, or vegetables.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The dish requires a little attention and stirring, but at its core, it’s really just rice and broth.</p>
+        </context>
+        <prereq>Ensure you have the following ingredients to hand before you begin.
+            <ul>
+                <li>32 ounces unsalted chicken stock, warmed</li>
+                <li>1 tablespoon unsalted butter</li>
+                <li>1 tablespoon olive oil</li>
+                <li>1 cup Arborio rice</li>
+                <li>1/4 teaspoon kosher salt</li>
+                <li>1/4 cup freshly grated Parmigiano-Reggiano or Pecorino-Romano cheese
+                    <image href="../../resources/images/risotto.PNG" id="ris"></image>
+                </li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <hazardstatement conkeyref="safety/hands">
+                    <messagepanel>
+                        <typeofhazard></typeofhazard>
+                        <howtoavoid></howtoavoid>
+                    </messagepanel>
+                </hazardstatement>
+                <cmd>Bring stock to a simmer in a saucepan over medium. Reduce heat and keep warm.</cmd>
+            </step>
+            <step>
+                <cmd>Melt the butter and heat the oil in a large skillet or wide-bottomed pot. Add the rice; stir to coat all the grains, 1 minute. Add 1 ladle of broth (½ cup to ¾ cup), stir, and leave it alone until broth is nearly absorbed, 2 to 3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Stir, add another ladle of broth, and stir again. Cook undisturbed until the broth is absorbed, 3 minutes. Repeat until about 1 ladle of broth remains, 15 to 18 minutes of total cook time for the rice. Turn off heat.</cmd>
+            </step>
+            <step>
+                <cmd>Add salt, remaining broth, and cheese. Stir gently for 2 minutes. Serve immediately in warmed bowls, with more grated cheese over top, if desired.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

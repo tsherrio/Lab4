@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Mediterranean Cuisine</title>
+    <topichead navtitle="Mediterranean Cuisine">
+        <topicref href="topics/concepts/what_med_style.dita">
+            <topicref href="topics/concepts/egypt.dita">
+                 <topicref href="topics/tasks/falafel.dita"></topicref>
+                 <topicref href="topics/tasks/duqqa.dita"></topicref>
+            </topicref>
+            <topicref href="topics/concepts/italy.dita">
+                <topicref href="topics/tasks/pizza.dita"></topicref>
+                <topicref href="topics/tasks/risotto.dita"></topicref>
+            </topicref>
+            <topicref href="secondmap.ditamap" format="ditamap"/>
+     
+        </topicref>     
+    </topichead>   
+</map>

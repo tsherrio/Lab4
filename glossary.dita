@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_vf2_rs5_tjb">
+    <title>Glossary</title>
+    <glossentry id="ddl">
+        <glossterm>Falafel</glossterm>
+        <glossdef>A deep-fried ball made from ground chickpeas, fava beans, or both.</glossdef>
+    </glossentry>
+    <glossentry id="dd2">
+        <glossterm>Duqqa</glossterm>
+        <glossdef>Duqqa or dukkah is an Egyptian blend of nuts, seeds, and spices and enjoyed as a starter or snack to dip with bread or fresh vegetables.</glossdef>
+    </glossentry>
+    <glossentry id="dd3">
+        <glossterm>Pizza</glossterm>
+        <glossdef>A savoury dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with various other ingredients, such as tomatoes and cheese.</glossdef>
+    </glossentry>
+    <glossentry id="dd4">
+        <glossterm>Risotto</glossterm>
+        <glossdef>A northern Italian rice dish cooked with broth until it reaches a creamy consistency.</glossdef>
+    </glossentry>
+</glossgroup>

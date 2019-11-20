@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+    <concept id="safe">
+        <title>Kitchen safety</title>
+        <shortdesc>Follow safe practises to avoid accident or injury in the kitchen.</shortdesc>
+        <conbody>
+           <p>
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard id="knife">Knife Safety</typeofhazard>
+                    <howtoavoid>When picking up a knife, make sure you aren't holding anything else or are distracted.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>  
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard id="tools">Appropriate Cooking Tools</typeofhazard>
+                    <howtoavoid>To keep hot items from slipping or spilling, use the right cooking utensils.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard id="food">Food Safety</typeofhazard>
+                    <howtoavoid>The kitchen presents safety concerns surrounding food preparation. Improper food preparation can lead to food poisoning like salmonella. Prepare food safely for yourself and your family.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard id="hands">Wash Your Hands</typeofhazard>
+                    <howtoavoid>Always wash your hands well with soap and water before you begin preparing a meal.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>    
+           </p>
+        </conbody>    
+    </concept>
